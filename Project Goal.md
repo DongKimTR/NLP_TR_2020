@@ -11,5 +11,7 @@ In the dataset, class 1 is the negative (review score 1 and 2) and class 2 is th
 # Modeling Strategy
 We will be identifying the topics in which negative reviews fall into. We will be categorizing based high level categories, followed by (time allowing) sub-categories.
 
+We chose to use the Neural Topic Modeling approach to compare against AWS Comprehend
+
 # End Goal
 To better state the reasons for negative customer experience with products. To possibly show trends and probabilities of specific types of negative reviews.
